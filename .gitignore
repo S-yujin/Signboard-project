@@ -48,3 +48,8 @@ Thumbs.db
 runs/
 outputs/
 results/
+
+dataset/
+*.jpg
+*.png
+*.csv
